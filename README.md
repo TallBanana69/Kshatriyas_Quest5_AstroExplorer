@@ -12,7 +12,9 @@ AstroExplorer addresses the challenge of classifying astronomical objects from F
 
 ## Dataset 
 Image Classification has dataset at https://drive.google.com/drive/folders/17d-vapkD364ZbqPHHlxHbm9Byld201i-?usp=sharing
+The X.npy is the entire dataset which contains all the fits files and y_exp1.npy contains the target ids.
 Light Curve Classification has dataset at https://drive.google.com/drive/folders/1xb_yZ3qELf4z6twzZBEmkPeW8niw_RrR?usp=sharing
+combined_light_curve_data is the csv file that has the dataset of light curves with columns of mjd, flux and flux_error
 
 ## Features
 
@@ -29,5 +31,7 @@ Light Curve Classification has dataset at https://drive.google.com/drive/folders
 These models are uploaded on github.
 The model.h5 file is for Light Curve Classification and is uploaded on the Github.
 The CNN_Classifier.h5 file is uploaded on the link https://drive.google.com/drive/folders/17d-vapkD364ZbqPHHlxHbm9Byld201i-?usp=sharing with the dataset.
+
+* Due to time constraint and github error we have uploaded model also on google drive. Link is shared.
 
 ### Details of what the dataset contains and the code flow is available in the documentation file
