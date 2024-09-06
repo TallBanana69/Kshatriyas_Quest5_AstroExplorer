@@ -27,6 +27,7 @@ Light Curve Classification has dataset at https://drive.google.com/drive/folders
 -   **Sequence Padding**: Properly padding variable-length light curves for the LSTM model was a challenge. 	
 ## Pre-trained Saved Models
 These models are uploaded on github.
-The model.h5 file is for Light Curve Classification and the CNN_Classifier.h5 file is for Image Classifiying Task.
+The model.h5 file is for Light Curve Classification and is uploaded on the Github.
+The CNN_Classifier.h5 file is uploaded on the link https://drive.google.com/drive/folders/17d-vapkD364ZbqPHHlxHbm9Byld201i-?usp=sharing with the dataset.
 
 ### Details of what the dataset contains and the code flow is available in the documentation file
